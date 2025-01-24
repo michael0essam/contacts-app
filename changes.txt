@@ -6,3 +6,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (3000123260
 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (1, 'T1','', '', '', '')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (2, 'T2','', '', '', '')
+

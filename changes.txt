@@ -3,3 +3,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (3000123260
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (30001232602075, 'مايكل عصام اديب','AXA', '4610010549P0', '', '01144933185')
 
 
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (1, 'T1','', '', '', '')

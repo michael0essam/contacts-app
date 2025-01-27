@@ -17,3 +17,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (6, '6','',
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (27909232603038, 'عصام محمد احمد','MetLife', '6394100001', '40229887', '')
 
 DELETE FROM contacts WHERE name = 'T1' and id = 1 
+DELETE FROM contacts WHERE name = 'T2' and id = 2 

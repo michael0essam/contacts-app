@@ -62,3 +62,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (1, '1','',
 DELETE FROM contacts WHERE name = '1' and id = 1 
 DELETE FROM contacts WHERE name = 'محمد احمد' and id = 2790923260303 
 
+

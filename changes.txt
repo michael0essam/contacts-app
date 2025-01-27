@@ -11,3 +11,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (2, 'T2',''
 
 DELETE FROM contacts WHERE name = 'T1' and id = 1 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (1, 'T1','', '', '', '')
+

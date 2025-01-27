@@ -52,3 +52,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (55, '55','
 DELETE FROM contacts WHERE name = '12' and id = 1 
 DELETE FROM contacts WHERE name = '12' and id = 2 
 DELETE FROM contacts WHERE name = '55' and id = 55 
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (1, '1','', '', '', '')

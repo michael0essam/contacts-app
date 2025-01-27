@@ -24,3 +24,4 @@ DELETE FROM contacts WHERE name = '6' and id = 6
 update contacts set phone = '' where name = 'عصام محمد احمد'
 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (1, '12','', '', '', '')
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (5, '12','', '', '', '')

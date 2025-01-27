@@ -20,3 +20,4 @@ DELETE FROM contacts WHERE name = 'T1' and id = 1
 DELETE FROM contacts WHERE name = 'T2' and id = 2 
 DELETE FROM contacts WHERE name = 'T3' and id = 3 
 DELETE FROM contacts WHERE name = 'T4' and id = 4 
+DELETE FROM contacts WHERE name = '6' and id = 6 

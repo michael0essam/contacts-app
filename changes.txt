@@ -29,3 +29,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (2, '12',''
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (3, '12','', '', '', '')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (4, '12','', '', '', '')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (6, '12','', '', '', '')
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (7, '12','', '', '', '')

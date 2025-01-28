@@ -69,3 +69,4 @@ DELETE FROM contacts WHERE name = 'محمد احمد' and id = 2790923260303
 
 
 DELETE FROM contacts WHERE name = 'محمد احمد' and id = 27909232603035 
+DELETE FROM contacts WHERE name = 'عصام محمد احمد' and id = 27909232603038 

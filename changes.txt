@@ -11,3 +11,5 @@ DELETE FROM contacts WHERE name = 'محمد احمد' and id = 2790923260303
 update contacts set company = 'AXA' where name = 'مايكل عصام اديب'
 
 
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (7, 'ماركو بهجت فؤاد','', '01228180648', '01203626245', '')

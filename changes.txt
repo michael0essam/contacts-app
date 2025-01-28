@@ -7,3 +7,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (3000123260
 DELETE FROM contacts WHERE name = '1' and id = 1 
 
 DELETE FROM contacts WHERE name = 'محمد احمد' and id = 2790923260303 
+
+update contacts set company = 'AXA' where name = 'مايكل عصام اديب'

@@ -10,3 +10,4 @@ DELETE FROM contacts WHERE name = 'محمد احمد' and id = 2790923260303
 
 update contacts set company = 'AXA' where name = 'مايكل عصام اديب'
 
+

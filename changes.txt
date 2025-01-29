@@ -22,3 +22,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (7, 'مار
 
 
 
+
+update contacts set card1 = '6394100001' where name = 'علي عبد النبي صديق'

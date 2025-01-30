@@ -36,3 +36,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (9, 'بيش
 DELETE FROM contacts WHERE name = 'نصير خورشيد' and id = 28405072602035 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (28405072602035, 'نصير خورشيد محمد','MetLife', '639410000', '402372281', '')
 update contacts set card1 = '6394100001' where name = 'نصير خورشيد محمد'
+update contacts set card2 = '40237228' where name = 'نصير خورشيد محمد'

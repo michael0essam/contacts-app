@@ -32,3 +32,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (40810, 'ج
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (28212052602826, 'محمد عبد الحليم','MetLife', '6394100002', '40217841', '01121799997')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (9, 'بيشوي رشاد حكيم','', '', '', '01288745096')
 
+
+DELETE FROM contacts WHERE name = 'نصير خورشيد' and id = 28405072602035 

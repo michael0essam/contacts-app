@@ -38,3 +38,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (2840507260
 update contacts set card1 = '6394100001' where name = 'نصير خورشيد محمد'
 update contacts set card2 = '40237228' where name = 'نصير خورشيد محمد'
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (48211, 'مايكل طلعت شكري عزيز','Limitless Care', '116779', 'A-54390', '01205369159')
+

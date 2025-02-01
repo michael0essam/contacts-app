@@ -51,3 +51,4 @@ update contacts set phone = '01203165614' where name = 'رجب رضوان خلي
 DELETE FROM contacts WHERE name = 'محمد فوزي حامد' and id = 275112122600934 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (27511212600934, 'محمود فوزي حامد','MetLife', '', '', '')
 DELETE FROM contacts WHERE name = 'محمد مهران محمد' and id = 2801072602979 
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (28201072602979, 'محمد مهران محمد','MetLife', '', '', '')

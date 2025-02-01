@@ -47,3 +47,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (48212, 'د
 update contacts set card1 = '6418300000' where name = 'رجب رضوان خليل'
 update contacts set card2 = '9024776002' where name = 'رجب رضوان خليل'
 update contacts set phone = '01203165614' where name = 'رجب رضوان خليل'
+
+DELETE FROM contacts WHERE name = 'محمد فوزي حامد' and id = 275112122600934 

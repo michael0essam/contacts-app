@@ -56,3 +56,4 @@ DELETE FROM contacts WHERE name = 'ايريني نيتاج حبيب' and id = 28
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (28808302600085, 'ايريني نيتاج حبيب','MetLife', '', '', '')
 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (28503102600093, 'مينا يوسف انور عبدالملاك','MetLife', '6370100001', '3848', '01065501961')
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (29606152606111, 'محمد جمال جلال عبدالرحمن','MetLife', '6410000000', '4967', '01100446548')

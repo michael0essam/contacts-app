@@ -119,3 +119,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (48228425, 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (26803262600053, 'محمد محمود عبدالعزيز البنا','MetLife', '6423600001', '12232', '')
 DELETE FROM contacts WHERE name = 'شيرين يوسف' and id = 27904192600683 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (27904192600683, 'شرين يوسف اسماعيل احمد','MetLife', '6423600001', '13932', '')
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (28007082600086, 'شيماء فهمي سيد محمد','MetLife', '6398700001', '2818', '01009324493')

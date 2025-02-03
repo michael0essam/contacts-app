@@ -88,3 +88,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (2840101260
 
 
 
+
+DELETE FROM contacts WHERE name = 'ايريني نيتاج حبيب' and id = 28808302600085 

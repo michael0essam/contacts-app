@@ -128,3 +128,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (482114731,
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (482124944, 'مارينا ابراهيم فهمي','Limitless Care', '124944', '6744', '01221404215')
 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (2, 'دكتور عماد منير صبحي','', '01208094309', '01001664655', '')
+update contacts set card2 = '01110457269' where name = 'صيدلية عماد منير الشرق'

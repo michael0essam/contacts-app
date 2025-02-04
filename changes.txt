@@ -134,3 +134,4 @@ update contacts set card2 = '01205920574' where name = 'صيدلية المني�
 update contacts set card2 = '01559593778' where name = 'صيدلية سوزان'
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (28511172501656, 'مينا عاطف جوده هرمينا','MetLife', '6418300000', '148606', '')
 update contacts set phone = '01120290568' where name = 'محمد مهران محمد'
+

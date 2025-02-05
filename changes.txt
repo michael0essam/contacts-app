@@ -183,3 +183,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (2940601260
 
 
 
+
+update contacts set card1 = '6394100001' where name = 'محمد علي الدين ثابت'

@@ -188,3 +188,4 @@ update contacts set card1 = '6394100001' where name = 'محمد علي الدي�
 update contacts set card2 = '40146462' where name = 'محمد علي الدين ثابت'
 update contacts set phone = '01100717789' where name = 'محمد علي الدين ثابت'
 
+

@@ -198,3 +198,4 @@ update contacts set card2 = '40236591' where name = 'عزالدين سالم م�
 update contacts set phone = '01125354834' where name = 'عزالدين سالم محمود الصادق'
 
 
+

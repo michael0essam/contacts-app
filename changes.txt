@@ -245,3 +245,4 @@ update contacts set phone = '01125354834' where name = 'عزالدين سالم 
 update contacts set phone = '01224144793' where name = 'رويس مكرم شكرالله مشرقي'
 update contacts set card1 = '6418300000' where name = 'مدحت صدقي شفيق'
 update contacts set card2 = '148602' where name = 'مدحت صدقي شفيق'
+update contacts set phone = '01287223632' where name = 'مدحت صدقي شفيق'

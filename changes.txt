@@ -256,3 +256,4 @@ update contacts set phone = '01145511743' where name = 'حسان محمود بغ
 update contacts set card1 = '6345600000' where name = 'هاني محمد حسين'
 update contacts set card2 = '200146' where name = 'هاني محمد حسين'
 update contacts set phone = '01229462587' where name = 'هاني محمد حسين'
+

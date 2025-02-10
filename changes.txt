@@ -258,3 +258,5 @@ update contacts set card2 = '200146' where name = 'هاني محمد حسين'
 update contacts set phone = '01229462587' where name = 'هاني محمد حسين'
 
 
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (444, 'test','', '', '', '')

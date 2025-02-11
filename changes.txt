@@ -276,3 +276,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (444, 'test
 
 DELETE FROM contacts WHERE name = 'test' and id = 444 
 
+

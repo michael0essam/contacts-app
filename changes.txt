@@ -281,3 +281,4 @@ DELETE FROM contacts WHERE name = 'test' and id = 444
 
 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (29404022601078, 'احمد جبريل فهمي مهني','MetLife', '6418300000', '90248431', '01050193591')
+

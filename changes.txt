@@ -297,3 +297,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (2940402260
 
 
 
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (28302012604957, 'بيتر موريس سعيد ميخائيل','MetLife', '6418300000', '148601', '01289200208')

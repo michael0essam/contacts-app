@@ -306,12 +306,3 @@ update contacts set phone = '01100716960' where name = 'عادل مصطفى مح
 
 
 
-
-
-INSERT INTO contacts (id_number, name, company, card1, card2, phone) VALUES ('40444', 'test', '', '', '', '')
-
-DELETE FROM contacts WHERE id_number='40444'
-INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('404040', 'test2', '', '', '', '')
-
-
-

@@ -318,3 +318,4 @@ update contacts set phone = '01100716960' where name = 'عادل مصطفى مح
 UPDATE contacts SET name='مايكل عصام اديب', company='AXA', card1='4610010549P0', card2='0', phone='01144933185' WHERE id=30001232602075
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('5050', 'test3', '', '', '', '')
 DELETE FROM contacts WHERE id='5050'
+

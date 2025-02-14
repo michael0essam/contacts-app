@@ -303,3 +303,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (2830201260
 update contacts set phone = '01100716960' where name = 'عادل مصطفى محمود'
 
 
+

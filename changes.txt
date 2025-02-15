@@ -341,3 +341,4 @@ DELETE FROM contacts WHERE id='5050'
 
 
 UPDATE contacts SET name='مايكل عصام اديب', company='', card1='4610010549P0', card2='0', phone='01144933185' WHERE id=30001232602075
+

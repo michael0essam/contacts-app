@@ -400,3 +400,5 @@ DELETE FROM contacts WHERE id='5050'
 
 
 
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (28702012803443, 'هلبيس غالي امين صادق','MetLife', '4134500007', '5035', '')

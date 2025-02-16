@@ -458,3 +458,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('5050', 't
 UPDATE contacts SET name='test7', company='AXA', card1='55', card2='777', phone='04448' WHERE id=5050
 DELETE FROM contacts WHERE id='5050'
 
+

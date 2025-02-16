@@ -453,3 +453,5 @@ DELETE FROM contacts WHERE id='5050'
 
 
 
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('5050', 'test7', 'Limitless Care', '55', '777', '0444')

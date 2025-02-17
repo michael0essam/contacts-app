@@ -465,3 +465,4 @@ UPDATE contacts SET name='مايكل عصام اديب', company='', card1='4610
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('5050', 'test10', '', '', '', '0444')
 
 DELETE FROM contacts WHERE name = 'test10' and id = 5050 
+

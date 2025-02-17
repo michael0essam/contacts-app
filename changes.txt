@@ -478,3 +478,5 @@ UPDATE contacts SET name='مايكل عصام اديب', company='AXA', card1='4
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28809282600136', 'جورج رضا خلف', 'AXA', '4510048233E0', '', '01221238848')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('209066', 'محمد سعد احمد ابراهيم', 'AXA', '4510010915E0', '', '')
 
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('482115980', 'محمد مصطفى عبدالمجيد مصطفى', 'Limitless Care', '115980', 'A-54236', '01013765374')

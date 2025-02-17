@@ -459,3 +459,4 @@ UPDATE contacts SET name='test7', company='AXA', card1='55', card2='777', phone=
 DELETE FROM contacts WHERE id='5050'
 
 
+

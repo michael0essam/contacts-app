@@ -467,3 +467,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('5050', 't
 DELETE FROM contacts WHERE name = 'test10' and id = 5050 
 
 
+

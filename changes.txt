@@ -493,3 +493,4 @@ UPDATE contacts SET name='محمد سعد احمد ابراهيم', company='AXA
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('40820', 'راندا مهدي اسحق', 'AXA', '4410017242E0', '', '')
 
 
+

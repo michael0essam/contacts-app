@@ -482,3 +482,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('209066', 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('482115980', 'محمد مصطفى عبدالمجيد مصطفى', 'Limitless Care', '115980', 'A-54236', '01013765374')
 
 
+

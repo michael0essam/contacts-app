@@ -484,3 +484,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('482115980
 
 
 
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('2526215', 'محمود كمال عبدالرحمن', 'AXA', '4510011030E0', '', '')

@@ -513,3 +513,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('903', 'TE
 DELETE FROM contacts WHERE id='903'
 DELETE FROM contacts WHERE id='40893'
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28405012605353', 'هاني عبدالعاطي شحاته', 'AXA', '5110132303E0', '', '')
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('45100109390', 'مينا نشأت بشرى عبدو', 'AXA', '4510010939E0', '', '')

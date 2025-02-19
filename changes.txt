@@ -510,3 +510,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (7702090662
 
 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('903', 'TEST11', '', '', '', '')
+DELETE FROM contacts WHERE id='903'

@@ -531,3 +531,4 @@ update contacts set card1 = '6394100001' where name = 'محمود عبدالرح
 update contacts set card2 = '30110271' where name = 'محمود عبدالرحمن عبدالحميد'
 
 
+

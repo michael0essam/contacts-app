@@ -574,3 +574,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('511020671
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('511018700610', 'هاني تقي فرج', 'AXA', '5110187006E0', '', '')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28303152602977', 'وليد صبحي وهبه توفيق', 'AXA', '4510056040E0', '', '')
 
+
+DELETE FROM contacts WHERE name = 'محمد عبد الحليم' and id = 28212052602826 

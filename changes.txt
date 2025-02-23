@@ -561,3 +561,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('511020671
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('511013900210', 'مارتينا عادل ابراهيم عبدالملاك', 'AXA', '5110139002E0', '', '')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('451000742310', 'خلف جابر عبدالمجيد علي', 'AXA', '4510007423E0', '', '')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('511000172210', 'محمد محمود سيد احمد', 'AXA', '5110001722E0', '', '')
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('511004367710', 'احمد رفعت عبدالله', 'AXA', '5110043677E0', '', '')

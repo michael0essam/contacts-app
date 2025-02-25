@@ -586,3 +586,4 @@ UPDATE contacts SET name='محمد جاد محمد عبدالمجيد', company=
 UPDATE contacts SET name='محمد عبدالاول حسن', company='MetLife', card1='6394100001', card2='40237225', phone='' WHERE id=28601022603816
 
 
+

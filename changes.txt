@@ -585,3 +585,4 @@ UPDATE contacts SET name='هايل رمضان بخيت خليل', company='MetLi
 UPDATE contacts SET name='محمد جاد محمد عبدالمجيد', company='MetLife', card1='5122500013', card2='10688', phone='' WHERE id=28204052602238
 UPDATE contacts SET name='محمد عبدالاول حسن', company='MetLife', card1='6394100001', card2='40237225', phone='' WHERE id=28601022603816
 
+

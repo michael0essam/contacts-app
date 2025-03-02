@@ -602,3 +602,4 @@ UPDATE contacts SET name='شنوده وجيه وصفي', company='MetLife', card
 UPDATE contacts SET name='جرجس وليم ثروت شاكر', company='MetLife', card1='6396100002', card2='43923', phone='01203222820' WHERE id=28708242600078
 
 
+

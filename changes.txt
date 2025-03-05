@@ -609,3 +609,4 @@ UPDATE contacts SET name='جرجس وليم ثروت شاكر', company='MetLife
 
 
 UPDATE contacts SET name='حماده عبدالرحيم هاشم', company='MetLife', card1='6394100001', card2='40230749', phone='01122254332' WHERE id=27611152602473
+UPDATE contacts SET name='حماده عطا حسين', company='MetLife', card1='6394100001', card2='40230866', phone='01270739974' WHERE id=27606132601558

@@ -621,3 +621,4 @@ UPDATE contacts SET name='ميشيل ناجح وديع عازر', company='MetLi
 
 UPDATE contacts SET name='وائل عبدالهادي ابراهيم', company='MetLife', card1='6394100001', card2='40242519', phone='01104268945' WHERE id=28501062605213
 
+

@@ -613,3 +613,5 @@ UPDATE contacts SET name='حماده عطا حسين', company='MetLife', card1=
 
 
 UPDATE contacts SET name='احمد محمد عبدالعزيز', company='AXA', card1='5110223227E0', card2='', phone='01023910909' WHERE id=29302252600456
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (27508232600034, 'محمود عبدالحليم شعبان محمد','MetLife', '3792703518', '9', '01019619690')
+DELETE FROM contacts WHERE name = 'محمود عبدالحليم شعبان محمد' and id = 27508232600034 

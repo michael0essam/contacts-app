@@ -618,3 +618,5 @@ DELETE FROM contacts WHERE name = 'محمود عبدالحليم شعبان مح
 
 UPDATE contacts SET name='ميشيل ناجح وديع عازر', company='MetLife', card1='6396100003', card2='16045', phone='01282639373' WHERE id=28903252604052
 
+
+UPDATE contacts SET name='وائل عبدالهادي ابراهيم', company='MetLife', card1='6394100001', card2='40242519', phone='01104268945' WHERE id=28501062605213

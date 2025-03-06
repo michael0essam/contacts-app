@@ -617,3 +617,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (2750823260
 DELETE FROM contacts WHERE name = 'محمود عبدالحليم شعبان محمد' and id = 27508232600034 
 
 UPDATE contacts SET name='ميشيل ناجح وديع عازر', company='MetLife', card1='6396100003', card2='16045', phone='01282639373' WHERE id=28903252604052
+

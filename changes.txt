@@ -650,3 +650,4 @@ UPDATE contacts SET name='دعاء فتحي احمد', company='MetLife', card1=
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES (27004182600056, 'عماد','', '', '', '')
 update contacts set company = 'Others' where name = 'عماد'
 UPDATE contacts SET name='دكتور عماد منير صبحي', company='', card1='01208094309', card2='01001664655', phone='' WHERE id=27004182600056
+UPDATE contacts SET name='دكتور عماد منير صبحي', company='', card1='01208094309', card2='01001664655', phone='' WHERE id=27004182600056

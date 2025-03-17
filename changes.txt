@@ -667,3 +667,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('712402628
 DELETE FROM contacts WHERE id='71240262880028'
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28008282602471', 'محمود تعلب شاهين', 'MetLife', '6394100001', '40236826', '')
 
+

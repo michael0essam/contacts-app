@@ -688,3 +688,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('299080126
 UPDATE contacts SET name='انجى رافت حلمى سدراك', company='', card1='5187400001', card2='1240', phone='01272118050' WHERE id=29511252603208
 
 UPDATE contacts SET name='انجى رافت حلمى سدراك', company='MetLife', card1='5187400001', card2='1240', phone='01272118050' WHERE id=29511252603208
+

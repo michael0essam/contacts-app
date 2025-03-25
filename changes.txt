@@ -690,3 +690,4 @@ UPDATE contacts SET name='انجى رافت حلمى سدراك', company='', ca
 UPDATE contacts SET name='انجى رافت حلمى سدراك', company='MetLife', card1='5187400001', card2='1240', phone='01272118050' WHERE id=29511252603208
 
 
+

@@ -764,3 +764,4 @@ UPDATE contacts SET name='دكتور عماد منير صبحي', company='Other
 DELETE FROM contacts WHERE id='2'
 UPDATE contacts SET name='احمد عبدالفتاح حسن', company='AXA', card1='5110222562E0', card2='', phone='01153006006' WHERE id=28106012604236
 UPDATE contacts SET name='محمد عبد الحليم محمد', company='MetLife', card1='6394100001', card2='240217841', phone='' WHERE id=28001012600871
+

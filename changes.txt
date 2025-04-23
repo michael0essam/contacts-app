@@ -759,3 +759,4 @@ UPDATE contacts SET name='صيدلية عماد منير الشرق', company='O
 UPDATE contacts SET name='صيدلية العماد الزهراء', company='Others', card1='', card2='01110457163', phone='2720259' WHERE id=5
 UPDATE contacts SET name='صيدلية سوزان', company='Others', card1='', card2='01559593778', phone='2102378' WHERE id=6
 UPDATE contacts SET name='ماركو بهجت فؤاد', company='Others', card1='01228180648', card2='01203626245', phone='' WHERE id=7
+UPDATE contacts SET name='بيشوي رشاد حكيم', company='Others', card1='', card2='', phone='01288745096' WHERE id=9

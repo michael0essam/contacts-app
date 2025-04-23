@@ -761,3 +761,4 @@ UPDATE contacts SET name='صيدلية سوزان', company='Others', card1='', 
 UPDATE contacts SET name='ماركو بهجت فؤاد', company='Others', card1='01228180648', card2='01203626245', phone='' WHERE id=7
 UPDATE contacts SET name='بيشوي رشاد حكيم', company='Others', card1='', card2='', phone='01288745096' WHERE id=9
 UPDATE contacts SET name='دكتور عماد منير صبحي', company='Others', card1='01208094309', card2='01001664655', phone='' WHERE id=27004182600056
+DELETE FROM contacts WHERE id='2'

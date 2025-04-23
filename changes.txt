@@ -755,3 +755,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('283042726
 UPDATE contacts SET name='صيدلية المنير المحطه', company='Others', card1='', card2='01205920574', phone='2156826' WHERE id=1
 UPDATE contacts SET name='دكتور عماد منير صبحي', company='Others', card1='01208094309', card2='01001664655', phone='' WHERE id=2
 UPDATE contacts SET name='مينا مجدي فكري', company='Others', card1='', card2='', phone='01202548182' WHERE id=3
+UPDATE contacts SET name='صيدلية عماد منير الشرق', company='Others', card1='', card2='01110457269', phone='4610668' WHERE id=4

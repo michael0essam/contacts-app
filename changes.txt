@@ -791,3 +791,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('274010126
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('29610072602856', 'ماركو مجدي صديق رزق الله', 'MetLife', '4714600000', '51142', '01201502933')
 UPDATE contacts SET name='اشرف خلف جاد عبدالملاك', company='MetLife', card1='6418300000', card2='90014865', phone='01227213289' WHERE id=27803202600058
 UPDATE contacts SET name='عبدالرحمن محمود ثابت', company='MetLife', card1='6394100001', card2='40232759', phone='01281049563' WHERE id=27111292601571
+
+UPDATE contacts SET name='وائل عبدالهادي ابراهيم', company='MetLife', card1='6394100001', card2='40242519', phone='01116054491' WHERE id=28501062605213

@@ -890,3 +890,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('293062225
 
 DELETE FROM contacts WHERE id='93'
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28811222603653', 'انور كمال محمد علي', 'AXA', '5110042106E0', '', '01118177103')
+
+UPDATE contacts SET name='عبدالله جمال احمد عبدالمولى', company='AXA', card1='5110206671E0', card2='', phone='01288739577' WHERE id=28705092602655

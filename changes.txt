@@ -901,3 +901,4 @@ UPDATE contacts SET name='ديانا عادل تدري اسكندر', company='A
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28308172600034', 'مينا رأفت جيد', 'MetLife', '4778900006', '229', '')
 
 
+

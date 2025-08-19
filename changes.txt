@@ -1048,3 +1048,5 @@ UPDATE contacts SET name='طلعت فارس نسيم ساويرس', company='Lim
 
 
 
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('29208012600321', 'اوليفيا وجيه حبيب موسى', 'AXA', '5110100986E0', '', '')

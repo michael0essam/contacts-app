@@ -1091,3 +1091,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('290121526
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28211192601076', 'محمد حسني جعفري علام', 'MetLife', '6385100000', '50291', '')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('30106062601784', 'ساندي ميشيل جرجس صالح', 'MetLife', '5187400001', '1909', '')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('29606092602715', 'حسن احمد حسن عبدالموجود', 'MetLife', '6444800000', '648', '01201621854')
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28711242600168', 'ماريان شوقى وديع سليمان', 'MetLife', '4778001424', '27720', '')

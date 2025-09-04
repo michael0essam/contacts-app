@@ -1117,3 +1117,5 @@ UPDATE contacts SET name='عيسى محمد احمد محمد', company='MetLife
 
 
 
+
+UPDATE contacts SET name='محمد عدلي عبدالحميد', company='MetLife', card1='6394100001', card2='40236850', phone='01123196904' WHERE id=29010012614378

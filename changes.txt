@@ -1132,3 +1132,4 @@ UPDATE contacts SET name='محمد علي ابراهيم', company='MetLife', ca
 UPDATE contacts SET name='جوزفين الضبع بشاره', company='AXA', card1='4510059220W1', card2='', phone='01220518061' WHERE id=27002252600064
 
 
+

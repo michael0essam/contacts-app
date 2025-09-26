@@ -1146,3 +1146,5 @@ UPDATE contacts SET name='جوزفين الضبع بشاره', company='AXA', ca
 UPDATE contacts SET name='مروه عاطف محمد احمد', company='MetLife', card1='6394100001', card2='40235912', phone='' WHERE id=28909152601747
 
 
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('27901012600878', 'حاتم سمير كامل على', 'MetLife', '', '', '')

@@ -1180,3 +1180,4 @@ UPDATE contacts SET name='محمد جاد محمد عبدالمجيد', company=
 UPDATE contacts SET name='ساندي ميشيل جرجس صالح', company='MetLife', card1='5187400001', card2='1909', phone='01208125096⁩' WHERE id=30106062601784
 
 
+

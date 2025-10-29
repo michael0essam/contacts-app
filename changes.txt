@@ -1247,3 +1247,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('277012726
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('4473554808', 'توماس مكرم شكرالله مشرقى', 'Limitless Care', '44735', 'https://shorturl.at/XCpjN', '01207405723')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('482', 'كارنيهات صحتك', 'Limitless Care', 'https://shorturl.at/R7awk', '', '')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('30608022602651', 'يحيي علاء على ابراهيم', 'MetLife', '6394100001', '40230561', '01009517168')
+

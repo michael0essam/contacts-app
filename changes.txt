@@ -1350,3 +1350,4 @@ UPDATE contacts SET name='خلود حمداوي ياسين عبدالرحيم', 
 
 
 UPDATE contacts SET name='ايليا فارس انيس بولس', company='Limitless Care', card1='115746', card2='https://shorturl.at/S3zao', phone='01226162322' WHERE id=480115746
+UPDATE contacts SET name='شادي عزت حنا', company='Limitless Care', card1='125099', card2='https://shorturl.at/avijd', phone='01223939732' WHERE id=101

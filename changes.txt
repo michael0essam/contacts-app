@@ -1353,3 +1353,4 @@ UPDATE contacts SET name='ايليا فارس انيس بولس', company='Limit
 UPDATE contacts SET name='شادي عزت حنا', company='Limitless Care', card1='125099', card2='https://shorturl.at/avijd', phone='01223939732' WHERE id=101
 UPDATE contacts SET name='شادي عزت حنا', company='Limitless Care', card1='125099', card2='https://shorturl.at/avijd', phone='01223939732' WHERE id=101
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('26912072601057', 'الفي شوقي عزيز', 'MetLife', '6394100001', '40230620', '01140001037')
+UPDATE contacts SET name='السيد احمد احمد مغربى', company='MetLife', card1='6394100001', card2='40233181', phone='01111436217' WHERE id=27604032602295

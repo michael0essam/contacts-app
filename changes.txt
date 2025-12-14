@@ -1361,3 +1361,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('289041926
 
 
 UPDATE contacts SET name='بيشوي اشرف ثابت عبدالله', company='AXA', card1='4510011062E1', card2='', phone='01289895743' WHERE id=451001106211
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('29101262600157', 'بيشوي اشرف ثابت عبدالله', 'AXA', '4510011062E0', '', '')

@@ -1402,3 +1402,4 @@ UPDATE contacts SET name='اميل فيليب قليني سوارس', company='L
 UPDATE contacts SET name='خالد مصطفى عبد المجيد مصطفى', company='Limitless Care', card1='125540', card2='url-shortener.me/67L6', phone='01091908238' WHERE id=482125540
 
 
+

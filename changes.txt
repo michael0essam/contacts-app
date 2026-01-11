@@ -1422,3 +1422,4 @@ UPDATE contacts SET name='خالد مصطفى عبد المجيد مصطفى', c
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('27909072600096', 'ابراهيم نصرالله حنا نصرالله', 'MetLife', '6418300000', '9001486202', '01226034321')
 UPDATE contacts SET name='ميرا عماد انيس مفتاح', company='Limitless Care', card1='114130', card2='https://url-shortener.me/6GZE', phone='01223939732' WHERE id=4829
 
+

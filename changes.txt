@@ -1436,3 +1436,4 @@ UPDATE contacts SET name='رمضان صديق احمد حمودي', company='Met
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('30112222602669', 'منى ابراهيم محمد عبدالعال', 'AXA', '5110377972W1', '', '01063051301')
 
 DELETE FROM contacts WHERE id='29012152600191'
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('29012152600191', 'مصطفى احمد محمد جاد', 'MetLife', '6418300000', '90249569', '01092764078')

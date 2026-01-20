@@ -1438,3 +1438,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('301122226
 DELETE FROM contacts WHERE id='29012152600191'
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('29012152600191', 'مصطفى احمد محمد جاد', 'MetLife', '6418300000', '90249569', '01092764078')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28312232600532', 'مصطفى هاشم عبدالشافى', 'MetLife', '6394100001', '40127057', '')
+UPDATE contacts SET name='روماني خليفه متياس', company='MetLife', card1='5070900000', card2='400849', phone='' WHERE id=27810090103591

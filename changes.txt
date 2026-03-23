@@ -1508,3 +1508,4 @@ UPDATE contacts SET name='ميرا عماد انيس مفتاح', company='Limit
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28709050101112', 'حسين عبدالعال عبد الجابر', 'MetLife', '4689900000', '30093', '')
 
 
+

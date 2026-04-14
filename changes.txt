@@ -1535,3 +1535,4 @@ UPDATE contacts SET name='مصطفى هاشم عبدالشافى', company='MetL
 UPDATE contacts SET name='مصطفى هاشم عبدالشافى', company='MetLife', card1='6394100001', card2='40127057', phone='01156041455' WHERE id=28312232600532
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('30204012611047', 'رانيا ايمن محمود محمد', 'MetLife', '6464900000', '3314', '01110576539')
 
+

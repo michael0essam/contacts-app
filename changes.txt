@@ -1557,3 +1557,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('291052125
 
 
 DELETE FROM contacts WHERE id='6394100001'
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28802092601255', 'ريمون شكرى لبيب عجايبى', 'MetLife', '6396100002', '', '')

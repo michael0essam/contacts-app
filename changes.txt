@@ -1561,3 +1561,4 @@ DELETE FROM contacts WHERE id='6394100001'
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28802092601255', 'ريمون شكرى لبيب عجايبى', 'MetLife', '6396100002', '', '')
 UPDATE contacts SET name='ريمون شكرى لبيب عجايبى', company='MetLife', card1='6396100002', card2='16041', phone='' WHERE id=28802092601255
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('482113766', 'مايكل مكرم حبيب', 'MetLife', '113766', 'https://shorturl.at/E2fri', '')
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28105112602072', 'محمود سعد محمد', 'MetLife', '6394100001', '402364291', '')

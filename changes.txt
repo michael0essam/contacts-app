@@ -1563,3 +1563,4 @@ UPDATE contacts SET name='ريمون شكرى لبيب عجايبى', company='M
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('482113766', 'مايكل مكرم حبيب', 'MetLife', '113766', 'https://shorturl.at/E2fri', '')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28105112602072', 'محمود سعد محمد', 'MetLife', '6394100001', '402364291', '')
 UPDATE contacts SET name='ايليا فارس انيس بولس', company='Limitless Care', card1='115746', card2='https://shorturl.at/TjcWR', phone='01226162322' WHERE id=480115746
+UPDATE contacts SET name='محمود سعد محمد', company='MetLife', card1='6394100001', card2='40236429', phone='' WHERE id=28105112602072

@@ -1566,3 +1566,4 @@ UPDATE contacts SET name='ايليا فارس انيس بولس', company='Limit
 UPDATE contacts SET name='محمود سعد محمد', company='MetLife', card1='6394100001', card2='40236429', phone='' WHERE id=28105112602072
 
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('2709092602851', 'محمد مصطفى محمد على', 'AXA', '5110292761E0', '', '01023964381')
+UPDATE contacts SET name='مايكل مكرم حبيب', company='MetLife', card1='113766', card2='https://shorturl.at/E2fri', phone='01224145543' WHERE id=482113766

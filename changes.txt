@@ -1662,3 +1662,5 @@ UPDATE contacts SET name='هبة حمادة علي حافظ', company='Limitless
 UPDATE contacts SET name='البدري عبدالفتاح محمد عبدالمنعم', company='MetLife', card1='6475100000', card2='104', phone='01272364233' WHERE id=27402172602692
 
 UPDATE contacts SET name='عمرو عشري عثمان حسن', company='AXA', card1='5110396687e0', card2='', phone='' WHERE id=28609202600051
+
+UPDATE contacts SET name='بيتر عاطف فؤاد', company='MetLife', card1='3915801002', card2='722', phone='' WHERE id=28204182500216

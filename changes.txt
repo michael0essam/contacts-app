@@ -1705,3 +1705,4 @@ UPDATE contacts SET name='ايليا فارس انيس بولس', company='Limit
 UPDATE contacts SET name='شادي عزت حنا', company='Limitless Care', card1='125099', card2='https://tinyurl.com/shady-ezzat', phone='01223939732' WHERE id=101
 UPDATE contacts SET name='طلعت فارس نسيم ساويرس', company='Limitless Care', card1='112121', card2='https://tinyurl.com/tallat-fares', phone='01203218208' WHERE id=482112121
 UPDATE contacts SET name='اميل فيليب قليني سوارس', company='Limitless Care', card1='125463', card2='https://tinyurl.com/email-filip', phone='' WHERE id=482125463
+UPDATE contacts SET name='خالد مصطفى عبد المجيد مصطفى', company='Limitless Care', card1='125540', card2='https://tinyurl.com/khaled-moustafa', phone='01091908238' WHERE id=482125540

@@ -1699,3 +1699,4 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('274010726
 UPDATE contacts SET name='توماس مكرم شكرالله مشرقى', company='Limitless Care', card1='44735', card2='https://tinyurl.com/SE7TAK', phone='01207405723' WHERE id=4473554808
 
 UPDATE contacts SET name='كارنيهات صحتك', company='Limitless Care', card1='https://tinyurl.com/SE7TAK-cards', card2='', phone='' WHERE id=482
+UPDATE contacts SET name='بيشوى عطية بطرس', company='Limitless Care', card1='125300', card2='https://tinyurl.com/se7tak-beshoy-attia', phone='' WHERE id=1253004720

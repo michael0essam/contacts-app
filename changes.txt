@@ -1710,3 +1710,5 @@ UPDATE contacts SET name='ميرا عماد انيس مفتاح', company='Limit
 UPDATE contacts SET name='محمد السيد حامد محمود', company='Limitless Care', card1='44722', card2='https://tinyurl.com/mohammed-elsyed', phone='' WHERE id=48244722
 UPDATE contacts SET name='مايكل مكرم حبيب', company='MetLife', card1='113766', card2='https://tinyurl.com/michael-makram', phone='01224145543' WHERE id=482113766
 UPDATE contacts SET name='هبة حمادة علي حافظ', company='Limitless Care', card1='48434', card2='https://tinyurl.com/heba-hamada', phone='01146841532' WHERE id=48248434
+
+UPDATE contacts SET name='محمد مصطفى عبدالمجيد مصطفى', company='Limitless Care', card1='115980', card2='https://tinyurl.com/mohammed-moustafa', phone='01013765374' WHERE id=482115980

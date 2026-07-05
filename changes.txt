@@ -1708,3 +1708,4 @@ UPDATE contacts SET name='اميل فيليب قليني سوارس', company='L
 UPDATE contacts SET name='خالد مصطفى عبد المجيد مصطفى', company='Limitless Care', card1='125540', card2='https://tinyurl.com/khaled-moustafa', phone='01091908238' WHERE id=482125540
 UPDATE contacts SET name='ميرا عماد انيس مفتاح', company='Limitless Care', card1='114130', card2='https://tinyurl.com/mera-emad', phone='01223939732' WHERE id=4829
 UPDATE contacts SET name='محمد السيد حامد محمود', company='Limitless Care', card1='44722', card2='https://tinyurl.com/mohammed-elsyed', phone='' WHERE id=48244722
+UPDATE contacts SET name='مايكل مكرم حبيب', company='MetLife', card1='113766', card2='https://tinyurl.com/michael-makram', phone='01224145543' WHERE id=482113766

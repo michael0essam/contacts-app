@@ -1704,3 +1704,4 @@ UPDATE contacts SET name='اندرو عاطف زكي عبد الملك', company
 UPDATE contacts SET name='ايليا فارس انيس بولس', company='Limitless Care', card1='115746', card2='https://tinyurl.com/elijah-fares', phone='01226162322' WHERE id=480115746
 UPDATE contacts SET name='شادي عزت حنا', company='Limitless Care', card1='125099', card2='https://tinyurl.com/shady-ezzat', phone='01223939732' WHERE id=101
 UPDATE contacts SET name='طلعت فارس نسيم ساويرس', company='Limitless Care', card1='112121', card2='https://tinyurl.com/tallat-fares', phone='01203218208' WHERE id=482112121
+UPDATE contacts SET name='اميل فيليب قليني سوارس', company='Limitless Care', card1='125463', card2='https://tinyurl.com/email-filip', phone='' WHERE id=482125463

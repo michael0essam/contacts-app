@@ -1715,3 +1715,4 @@ UPDATE contacts SET name='محمد مصطفى عبدالمجيد مصطفى', co
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('482113764', 'سعيد حبيب زخاري بسالى', 'Limitless Care', '113764', 'https://tinyurl.com/saeed-habeb', '01276225653')
 INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('28602012607399', 'احمد ناصر علي', 'MetLife', '6394100002', '402405114', '')
 UPDATE contacts SET name='احمد خليفه عبدالحميد', company='MetLife', card1='', card2='40237488', phone='' WHERE id=27806072601897
+UPDATE contacts SET name='احمد خليفه عبدالحميد', company='MetLife', card1='6394100001', card2='40237488', phone='' WHERE id=27806072601897

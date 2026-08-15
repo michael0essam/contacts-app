@@ -1759,3 +1759,5 @@ INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('294030126
 
 
 
+
+INSERT INTO contacts (id, name, company, card1, card2, phone) VALUES ('27802200101945', 'عزه السيد ابو النجا محمد', '', '', '', '')
